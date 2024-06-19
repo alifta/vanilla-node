@@ -1,0 +1,11 @@
+{
+	"name": "vanilla-node",
+	"version": "1.0.0",
+	"description": "Simple server just using node",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"author": "Ali Farrokhtala",
+	"license": "ISC"
+}
